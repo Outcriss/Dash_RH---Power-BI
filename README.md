@@ -37,13 +37,3 @@ Dashboard focado em People Analytics desenvolvido para acompanhar indicadores es
 * **Power BI Desktop:** Construção dos visuais, layout e navegação.
 * **Power Query:** Tratamento, limpeza e transformação da base de dados de RH.
 * **DAX:** Criação de medidas para cálculo de turnover, headcount e médias de movimentação.
-
----
-
-## Estrutura do Repositório
-
-```text
-├── DASH_RH.PNG.jpeg
-├── DASH_RH - FILTRO.PNG.jpeg
-├── Dash_rh.pbix
-└── README.md
