@@ -10,7 +10,7 @@ Dashboard focado em People Analytics desenvolvido para acompanhar indicadores es
 
 ## 🔗 Acesso ao Dashboard Interativo
 
-* **Acesse o painel online:** [Clique aqui para abrir o Dashboard no Power BI](https://app.powerbi.com/Redirect?action=OpenApp&appId=08bc91e4-70e7-4955-94ec-f86807ba3055&ctid=f310b526-e195-4805-a55e-67e28f2fefdb&experience=power-bi)
+* **Acesse o painel online:** [Clique aqui para abrir o Dashboard no Power BI](https://app.powerbi.com/reportEmbed?reportId=a51e34e2-94d4-4152-a60c-ba9671fa2a85&appId=08bc91e4-70e7-4955-94ec-f86807ba3055&ctid=f310b526-e195-4805-a55e-67e28f2fefdb)
 
 ---
 
@@ -43,4 +43,3 @@ Dashboard focado em People Analytics desenvolvido para acompanhar indicadores es
 * **Power BI Desktop:** Construção dos visuais, layout e navegação.
 * **Power Query:** Tratamento, limpeza e transformação da base de dados de RH.
 * **DAX:** Criação de medidas para cálculo de turnover, headcount e médias de movimentação.
-
